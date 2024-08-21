@@ -52,6 +52,6 @@ GitHub Issues are items you can create in a repository to plan, discuss and trac
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
-Common Challenges (with Solutions) Teams Face
+Common Challenges (with Solutions) Teams Face:
 Adopt Clear Branching Strategies: Use strategies like GitFlow or trunk-based development to isolate work and reduce conflict chances.
 Commit Frequently: Encourage frequent commits to integrate changes early and avoid complex conflicts.
